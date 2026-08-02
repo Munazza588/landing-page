@@ -144,4 +144,18 @@ img {
     padding-left:200px;
 }
 
-
+.call-to-action {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:60px 0px;
+    background-color: lightblue;
+    height:100px;
+    width:750px;
+    gap:100px;
+}
+.call-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
