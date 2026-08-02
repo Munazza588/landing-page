@@ -159,3 +159,12 @@ img {
     align-items: center;
     justify-content: center;
 }
+
+.footer {
+    background-color: rgb(26, 17, 17);
+    color: white;
+    height:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
